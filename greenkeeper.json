@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "rollbar-setup/package.json"
+      ]
+    }
+  }
+}
